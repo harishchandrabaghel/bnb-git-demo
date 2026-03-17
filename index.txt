@@ -1,5 +1,11 @@
 Hello there
 
+<<<<<<< HEAD
 Welcome to my bitsandbytes chennel.
 
 This is part 2 video.
+=======
+Welcome to my bitsandbytes chennelllll.
+
+This is part two video.
+>>>>>>> feature/index-update-demo
